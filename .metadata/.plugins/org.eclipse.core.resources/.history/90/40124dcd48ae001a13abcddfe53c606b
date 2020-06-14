@@ -1,0 +1,15 @@
+package naist.sd;
+
+import org.eclipse.jdt.core.dom.CompilationUnit;
+import org.eclipse.core.contenttype-3.7.600.jar;
+import org.eclipse.core.jobs-3.10.700.jar;
+import org.eclipse.core.resoutces-3.13.700;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

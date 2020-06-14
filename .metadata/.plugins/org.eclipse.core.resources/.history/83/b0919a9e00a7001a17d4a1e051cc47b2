@@ -1,0 +1,5 @@
+package naist.sd;
+
+public class ASTNode {
+
+}
